@@ -1,0 +1,213 @@
+WHATSAPP:
+Array
+(
+    [0] => Array
+        (
+            [0] => "elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-repeater-item-16bd4d2" href="https://api.whatsapp
+            [1] => 						<span class="elementor-screen-only">Whatsapp</span>
+            [2] => 						<i aria-hidden="true" class="fab fa-whatsapp"></i>					</a>
+            [3] => _counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"t
+        )
+
+)
+
+
+WEKITA:
+Array
+(
+    [0] => Array
+        (
+            [0] => 	<meta property="og:url" content="https://inv.wekita.id/spesial-03-animasi-new/" />
+            [1] => 	<meta property="og:site_name" content="Wekita.id" />
+            [2] => 	<meta property="og:image" content="https://inv.wekita.id/wp-content/uploads/2025/11/SPESIAL-03-ANIMASI.webp" />
+            [3] => schema.org","@graph":[{"@type":"WebPage","@id":"https://inv.wekita.id/spesial-03-animasi-new/","url":"https://inv.wekita.id/sp
+            [4] => site Spesial 03 Animasi NEW","isPartOf":{"@id":"https://inv.wekita.id/#website"},"primaryImageOfPage":{"@id":"https://inv.weki
+            [5] => -03-animasi-new/#primaryimage"},"image":{"@id":"https://inv.wekita.id/spesial-03-animasi-new/#primaryimage"},"thumbnailUrl":"h
+            [6] => ttps://inv.wekita.id/wp-content/uploads/2025/11/SPESIAL-03-ANIMASI.webp","dat
+            [7] => amu jadi lebih berkesan !","breadcrumb":{"@id":"https://inv.wekita.id/spesial-03-animasi-new/#breadcrumb"},"inLanguage":"id","
+            [8] => entialAction":[{"@type":"ReadAction","target":["https://inv.wekita.id/spesial-03-animasi-new/"]}]},{"@type":"ImageObject","inL
+            [9] => anguage":"id","@id":"https://inv.wekita.id/spesial-03-animasi-new/#primaryimage","url":"https://inv
+            [10] => .wekita.id/wp-content/uploads/2025/11/SPESIAL-03-ANIMASI.webp","con
+            [11] => tentUrl":"https://inv.wekita.id/wp-content/uploads/2025/11/SPESIAL-03-ANIMASI.webp","wid
+            [12] => "height":1080},{"@type":"BreadcrumbList","@id":"https://inv.wekita.id/spesial-03-animasi-new/#breadcrumb","itemListElement":[{
+            [13] => ListItem","position":1,"name":"Beranda","item":"https://inv.wekita.id/"},{"@type":"ListItem","position":2,"name":"Undangan Web
+            [14] => al 03 Animasi NEW"}]},{"@type":"WebSite","@id":"https://inv.wekita.id/#website","url":"https://inv.wekita.id/","name":"Wekita.
+            [15] => ar Undangan sambil Rebahan","publisher":{"@id":"https://inv.wekita.id/#organization"},"inLanguage":"id"},{"@type":"Organizatio
+            [16] => n","@id":"https://inv.wekita.id/#organization","name":"Wekita.id","url":"https://inv.wekita.id/","logo":{"@type":"ImageOb
+            [17] => ject","inLanguage":"id","@id":"https://inv.wekita.id/#/schema/logo/image/","url":"https://inv.wekita.id/wp-co
+            [18] => loads/2023/05/cropped-loglog.png","contentUrl":"https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog.png","width":5
+            [19] => 12,"height":512,"caption":"Wekita.id"},"image":{"@id":"https://inv.wekita.id/#/schema/logo/im
+            [20] => <link rel="alternate" type="application/rss+xml" title="Wekita.id &raquo; Feed" href="https://inv.wekita.id/feed/" />
+            [21] => <link rel="alternate" type="application/rss+xml" title="Wekita.id &raquo; Umpan Komentar" href="https://inv.wekita.id/comm
+            [22] => <link rel="alternate" type="application/rss+xml" title="Wekita.id &raquo; Undangan Website Spesial 03 Animasi NEW Umpan Ko
+            [23] => mentar" href="https://inv.wekita.id/spesial-03-animasi-new/feed/" />
+            [24] => ed (JSON)" type="application/json+oembed" href="https://inv.wekita.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finv.wekita.id
+            [25] => tle="oEmbed (XML)" type="text/xml+oembed" href="https://inv.wekita.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finv.wekita.id
+            [26] => <link rel='stylesheet' id='bdt-uikit-css' href='https://inv.wekita.id/wp-content/plugins/weddingpress/assets/css/modules/bdt-u
+            [27] => <link rel='stylesheet' id='ep-helper-css' href='https://inv.wekita.id/wp-content/plugins/weddingpress/assets/css/modules/ep-he
+            [28] =>  rel='stylesheet' id='uaf_client_css-css' href='https://inv.wekita.id/wp-content/uploads/useanyfont/uaf.css?ver=1772977733' me
+            [29] => rel='stylesheet' id='exad-main-style-css' href='https://inv.wekita.id/wp-content/plugins/weddingpress/assets/css/exad-styles.m
+            [30] => <link rel='stylesheet' id='cui_style-css' href='https://inv.wekita.id/wp-content/plugins/weddingpress/addons/comment-kit2//css
+            [31] => <link rel='stylesheet' id='wdp-icon-css' href='https://inv.wekita.id/wp-content/plugins/weddingpress/assets/css/new-icon.min.
+            [32] => rel='stylesheet' id='hello-elementor-css' href='https://inv.wekita.id/wp-content/themes/hello-elementor/assets/css/reset.css?v
+            [33] => eet' id='hello-elementor-theme-style-css' href='https://inv.wekita.id/wp-content/themes/hello-elementor/assets/css/theme.css?v
+            [34] => t' id='hello-elementor-header-footer-css' href='https://inv.wekita.id/wp-content/themes/hello-elementor/assets/css/header-foot
+            [35] => ='stylesheet' id='elementor-frontend-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/css/frontend.min.css
+            [36] => el='stylesheet' id='elementor-post-7-css' href='https://inv.wekita.id/wp-content/uploads/elementor/css/post-7.css?ver=17807388
+            [37] => k rel='stylesheet' id='widget-lottie-css' href='https://inv.wekita.id/wp-content/plugins/elementor-pro/assets/css/widget-lotti
+            [38] => stylesheet' id='e-animation-fadeInUp-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/animations/style
+            [39] => <link rel='stylesheet' id='e-popup-css' href='https://inv.wekita.id/wp-content/plugins/elementor-pro/assets/css/conditionals
+            [40] => rel='stylesheet' id='elementor-icons-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/eicons/css/eleme
+            [41] => el='stylesheet' id='weddingpress-wdp-css' href='https://inv.wekita.id/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=3
+            [42] => <link rel='stylesheet' id='kirim-kit-css' href='https://inv.wekita.id/wp-content/plugins/weddingpress/assets/css/guest-book.cs
+            [43] =>  rel='stylesheet' id='widget-heading-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/css/widget-heading.m
+            [44] => k rel='stylesheet' id='widget-spacer-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/css/widget-spacer.mi
+            [45] =>  rel='stylesheet' id='widget-divider-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/css/widget-divider.m
+            [46] => ='stylesheet' id='e-animation-zoomIn-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/animations/style
+            [47] => nk rel='stylesheet' id='widget-image-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/css/widget-image.min
+            [48] => 'stylesheet' id='widget-social-icons-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/css/widget-social-ic
+            [49] =>  rel='stylesheet' id='e-apple-webkit-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/css/conditionals/app
+            [50] =>  rel='stylesheet' id='widget-counter-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/css/widget-counter.m
+            [51] => ='stylesheet' id='e-animation-shrink-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/animations/style
+            [52] => <link rel='stylesheet' id='e-sticky-css' href='https://inv.wekita.id/wp-content/plugins/elementor-pro/assets/css/modules/stic
+            [53] => stylesheet' id='elementor-post-27275-css' href='https://inv.wekita.id/wp-content/uploads/elementor/css/post-27275.css?ver=1780
+            [54] => stylesheet' id='elementor-post-21686-css' href='https://inv.wekita.id/wp-content/uploads/elementor/css/post-21686.css?ver=1780
+            [55] => sheet' id='elementor-gf-local-roboto-css' href='https://inv.wekita.id/wp-content/uploads/elementor/google-fonts/css/roboto.css
+            [56] => t' id='elementor-gf-local-robotoslab-css' href='https://inv.wekita.id/wp-content/uploads/elementor/google-fonts/css/robotoslab
+            [57] => t' id='elementor-gf-local-newsreader-css' href='https://inv.wekita.id/wp-content/uploads/elementor/google-fonts/css/newsreader
+            [58] => sheet' id='elementor-gf-local-cinzel-css' href='https://inv.wekita.id/wp-content/uploads/elementor/google-fonts/css/cinzel.css
+            [59] => lesheet' id='elementor-gf-local-jura-css' href='https://inv.wekita.id/wp-content/uploads/elementor/google-fonts/css/jura.css?v
+            [60] => t' id='elementor-gf-local-montserrat-css' href='https://inv.wekita.id/wp-content/uploads/elementor/google-fonts/css/montserrat
+            [61] => esheet' id='elementor-icons-shared-0-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css
+            [62] => sheet' id='elementor-icons-fa-brands-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css
+            [63] => esheet' id='elementor-icons-fa-solid-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css
+            [64] => heet' id='elementor-icons-fa-regular-css' href='https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css
+            [65] => <script id="jquery-core-js" src="https://inv.wekita.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+            [66] => <script id="jquery-migrate-js" src="https://inv.wekita.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"><
+            [67] => <link rel="https://api.w.org/" href="https://inv.wekita.id/wp-json/" /><link rel="alternate" title="JSON" type="app
+            [68] => lication/json" href="https://inv.wekita.id/wp-json/wp/v2/pages/27275" /><meta name="generator" cont
+            [69] => 			<link rel="icon" href="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-32x32.png" siz
+            [70] => <link rel="icon" href="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-192x192.png" s
+            [71] => <link rel="apple-touch-icon" href="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-180x180.png" /
+            [72] => <meta name="msapplication-TileImage" content="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-270x270.png" /
+            [73] => decoding="async" width="726" height="1000" src="https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-CVR.png" class="att
+            [74] => t-full size-full wp-image-27191" alt="" srcset="https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-CVR.png 726w, https
+            [75] => ://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-CVR-218x300.png 218
+            [76] => quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/inv.wekita.id\/wp-content\/uploads\/2025\/11\/bird-hitam-1-1.json&quot
+            [77] =>  decoding="async" width="547" height="768" src="https://inv.wekita.id/wp-content/uploads/2025/11/BB-1.webp" class="attachment-
+            [78] => full size-full wp-image-27173" alt="" srcset="https://inv.wekita.id/wp-content/uploads/2025/11/BB-1.webp 547w, https://inv.w
+            [79] => decoding="async" width="900" height="1275" src="https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-w-Terpusat-1-1.webp
+            [80] => t-full size-full wp-image-27192" alt="" srcset="https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-w-Terpusat-1-1.webp
+            [81] =>  900w, https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-P-Terpusat-1-1-212x
+            [82] => 300.webp 212w, https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-P-Terpusat-1-1-723x
+            [83] => 1024.webp 723w, https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-P-Terpusat-1-1-768x
+            [84] => decoding="async" width="900" height="1275" src="https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-P-Terpusat-1-1.webp
+            [85] => t-full size-full wp-image-27193" alt="" srcset="https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-P-Terpusat-1-1.webp
+            [86] =>  900w, https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-w-Terpusat-1-1-212x
+            [87] => 300.webp 212w, https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-w-Terpusat-1-1-723x
+            [88] => 1024.webp 723w, https://inv.wekita.id/wp-content/uploads/2025/11/Muslim-19-w-Terpusat-1-1-768x
+            [89] => quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/inv.wekita.id\/wp-content\/uploads\/2025\/11\/bird-hitam-1-1.json&quot
+            [90] => decoding="async" width="2560" height="813" src="https://inv.wekita.id/wp-content/uploads/2025/11/BCA_logo_Bank_Central_Asia-1-
+            [91] => t-full size-full wp-image-27183" alt="" srcset="https://inv.wekita.id/wp-content/uploads/2025/11/BCA_logo_Bank_Central_Asia-1-
+            [92] => 3-5-1-scaled-1-3.png 2560w, https://inv.wekita.id/wp-content/uploads/2025/11/BCA_logo_Bank_Central_Asia-1-
+            [93] => 3-5-1-scaled-1-3-300x95.png 300w, https://inv.wekita.id/wp-content/uploads/2025/11/BCA_logo_Bank_Central_Asia-1-
+            [94] => 3-5-1-scaled-1-3-1024x325.png 1024w, https://inv.wekita.id/wp-content/uploads/2025/11/BCA_logo_Bank_Central_Asia-1-
+            [95] => 3-5-1-scaled-1-3-768x244.png 768w, https://inv.wekita.id/wp-content/uploads/2025/11/BCA_logo_Bank_Central_Asia-1-
+            [96] => 3-5-1-scaled-1-3-1536x488.png 1536w, https://inv.wekita.id/wp-content/uploads/2025/11/BCA_logo_Bank_Central_Asia-1-
+            [97] =>  decoding="async" width="150" height="150" src="https://inv.wekita.id/wp-content/uploads/2025/11/chip-atm-1-2-4-1-1-4.png" cla
+            [98] => decoding="async" width="1200" height="342" src="https://inv.wekita.id/wp-content/uploads/2025/11/1200px-Logo_dana_blue.svg-1-1
+            [99] => t-full size-full wp-image-27186" alt="" srcset="https://inv.wekita.id/wp-content/uploads/2025/11/1200px-Logo_dana_blue.svg-1-1
+            [100] => -1-1-1-3.png 1200w, https://inv.wekita.id/wp-content/uploads/2025/11/1200px-Logo_dana_blue.svg-1-1
+            [101] => -1-1-1-3-300x86.png 300w, https://inv.wekita.id/wp-content/uploads/2025/11/1200px-Logo_dana_blue.svg-1-1
+            [102] => -1-1-1-3-1024x292.png 1024w, https://inv.wekita.id/wp-content/uploads/2025/11/1200px-Logo_dana_blue.svg-1-1
+            [103] => 275' class='respond cui-clearfix'><form action='https://inv.wekita.id/wp-comments-post.php' method='post' id='commentform-2727
+            [104] => rg/images/core/emoji/13.0.1/svg/2764.svg" alt="❤" /> by Wekita.id</p>								</div>
+            [105] => ntor-repeater-item-d0d1213" href="https://www.instagram.com/wekita.id/" target="_blank">
+            [106] => 			<source src="https://inv.wekita.id/wp-content/uploads/2025/11/Enchanted-Orchestral-Cover-by
+            [107] => quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/inv.wekita.id\/wp-content\/uploads\/2025\/06\/Artboard-1-3.json&quot;,
+            [108] => 			<script id="wdp-swiper-js-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/assets/js/wdp-swiper.min
+            [109] => <script id="weddingpress-qr-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/assets/js/qr-code.js"></
+            [110] => <script id="exad-main-script-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/assets/js/exad-scripts.m
+            [111] => var CUI_WP = {"ajaxurl":"https://inv.wekita.id/wp-admin/admin-ajax.php","cuiNonce":"52eb0ad904","jpages
+            [112] => <script id="cui_js_script-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/addons/comment-kit2//js/
+            [113] => <script id="cui_jPages-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/addons/comment-kit2//js/
+            [114] => <script id="cui_textCounter-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/addons/comment-kit2//js/
+            [115] => <script id="cui_placeholder-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/addons/comment-kit2//js/
+            [116] => <script id="cui_autosize-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/addons/comment-kit2//js/
+            [117] => <script id="wp-hooks-js" src="https://inv.wekita.id/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732
+            [118] => <script id="wp-i18n-js" src="https://inv.wekita.id/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec
+            [119] => <script id="react-js" src="https://inv.wekita.id/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1"></
+            [120] => <script id="react-dom-js" src="https://inv.wekita.id/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1
+            [121] => <script id="wp-escape-html-js" src="https://inv.wekita.id/wp-includes/js/dist/escape-html.min.js?ver=3f093e5cca67a
+            [122] => <script id="wp-element-js" src="https://inv.wekita.id/wp-includes/js/dist/element.min.js?ver=15ba804677f72a8db
+            [123] => var _wdpobject = {"ajaxurl":"https://inv.wekita.id/wp-admin/admin-ajax.php","home_url":"https://inv.wekita.
+            [124] => id","site_url":"https://inv.wekita.id","site_title":"Wekita.id","code_nonce":"6eb169c04a","member_area":"https://akses.
+            [125] => <script id="wdp-script-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/assets/js/license.min.js
+            [126] => <script id="hello-theme-frontend-js" src="https://inv.wekita.id/wp-content/themes/hello-elementor/assets/js/hello-fronte
+            [127] => <script id="lottie-js" src="https://inv.wekita.id/wp-content/plugins/elementor-pro/assets/lib/lottie/lotti
+            [128] => <script id="elementor-webpack-runtime-js" src="https://inv.wekita.id/wp-content/plugins/elementor/assets/js/webpack.runtime.m
+            [129] => <script id="elementor-frontend-modules-js" src="https://inv.wekita.id/wp-content/plugins/elementor/assets/js/frontend-modules.
+            [130] => <script id="jquery-ui-core-js" src="https://inv.wekita.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"></scrip
+            [131] => rue,"e_pro_variables":true},"urls":{"assets":"https:\/\/inv.wekita.id\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"ht
+            [132] => tps:\/\/inv.wekita.id\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/inv.we
+            [133] => 0Animasi%20NEW","excerpt":"","featuredImage":"https:\/\/inv.wekita.id\/wp-content\/uploads\/2025\/11\/SPESIAL-03-ANIMASI-1020x
+            [134] => <script id="elementor-frontend-js" src="https://inv.wekita.id/wp-content/plugins/elementor/assets/js/frontend.min.js?v
+            [135] => <script id="jquery-numerator-js" src="https://inv.wekita.id/wp-content/plugins/elementor/assets/lib/jquery-numerator
+            [136] => <script id="e-sticky-js" src="https://inv.wekita.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquer
+            [137] => ript id="elementor-pro-webpack-runtime-js" src="https://inv.wekita.id/wp-content/plugins/elementor-pro/assets/js/webpack-pro.r
+            [138] => var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/inv.wekita.id\/wp-admin\/admin-ajax.php","nonce":"a0ceb687b9","urls":{
+            [139] => "assets":"https:\/\/inv.wekita.id\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"h
+            [140] => ttps:\/\/inv.wekita.id\/wp-json\/"},"settings":{"lazy_load_background_images":t
+            [141] => "app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/inv.wekita.id\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/as
+            [142] => <script id="elementor-pro-frontend-js" src="https://inv.wekita.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.
+            [143] => <script id="pro-elements-handlers-js" src="https://inv.wekita.id/wp-content/plugins/elementor-pro/assets/js/elements-hand
+            [144] => <script id="bdt-uikit-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/assets/js/modules/bdt-ui
+            [145] => var cevar = {"ajax_url":"https://inv.wekita.id/wp-admin/admin-ajax.php","plugin_url":"https://inv.wekit
+            [146] => <script id="weddingpress-wdp-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/assets/js/wdp.min.js?ver
+            [147] => var sendkit_ajax = {"ajax_url":"https://inv.wekita.id/wp-admin/admin-ajax.php"};
+            [148] => <script id="kirim-kit-js" src="https://inv.wekita.id/wp-content/plugins/weddingpress/assets/js/guest-form.js?
+            [149] => /svg/","svgExt":".svg","source":{"concatemoji":"https://inv.wekita.id/wp-includes/js/wp-emoji-release.min.js?ver=da71a026377a5
+            [150] => //# sourceURL=https://inv.wekita.id/wp-includes/js/wp-emoji-loader.min.js
+            [151] =>     var AJAX="https://inv.wekita.id/wp-admin/admin-ajax.php";
+        )
+
+)
+
+
+WDP:
+Array
+(
+    [0] => Array
+        (
+        )
+
+)
+
+
+COUNTDOWN:
+Array
+(
+    [0] => Array
+        (
+            [0] => "elementor-element elementor-element-5b301c00 reveal elementor-widget elementor-widget-weddingpress-countdown" data-id="5b301c00" data-element_type="widget" data-widget_type="weddingpress-countdown.default">
+            [1] => 	<div class="wpkoi-elements-countdown-wrapper">
+            [2] => 		<div class="wpkoi-elements-countdown-container wpkoi-elements-countdown-label-block ">		
+            [3] => 			<ul id="wpkoi-elements-countdown-5b301c00" class="wpkoi-elements-countdown-items" data-date="Jun 12 2026 10:00:00">
+            [4] => 			    <li class="wpkoi-elements-countdown-item"><div class="wpkoi-elements-countdown-days"><span data-days class="wpkoi-elements-countdown-digits">00</span><span class="wpkoi-elements-
+            [5] => countdown-label">Hari</span></div></li>			    <li class="wpkoi-elements-countdown-item"><div class="wpkoi-elements-countdown-hours"><span data-hours class="wpkoi-elements-countdown-
+            [6] => digits">00</span><span class="wpkoi-elements-countdown-label">Jam</span></div></li>			   <li class="wpkoi-elements-countdown-item"><div class="wpkoi-eleme
+            [7] => nts-countdown-minutes"><span data-minutes class="wpkoi-elements-countdown-digits">00</span><span class="wpkoi-elements-countdown-label">Menit</span></div></li>			   <li clas
+            [8] => s="wpkoi-elements-countdown-item"><div class="wpkoi-elements-countdown-seconds"><span data-seconds class="wpkoi-elements-countdown-digits">00</span><span class="wpkoi-ele
+            [9] => ments-countdown-label">Detik</span></div></li>			</ul>
+            [10] => 		$("#wpkoi-elements-countdown-5b301c00").countdown();
+            [11] =>   <script id="idb-countdown-sync">
+            [12] =>       try{ if (window.jQuery){ try{$ul.countdown('destroy');}catch(_){}
+            [13] =>         $ul[0].setAttribute('data-date', tgt); try{$ul.countdown(); return true;}catch(_){}
+            [14] =>         var dEl=ul.querySelector('.wpkoi-elements-countdown-days .wpkoi-elements-countdown-digits');
+            [15] =>         var hEl=ul.querySelector('.wpkoi-elements-countdown-hours .wpkoi-elements-countdown-digits');
+            [16] =>         var mEl=ul.querySelector('.wpkoi-elements-countdown-minutes .wpkoi-elements-countdown-digits');
+            [17] =>         var sEl=ul.querySelector('.wpkoi-elements-countdown-seconds .wpkoi-elements-countdown-digits');
+            [18] =>   document.querySelectorAll('.wpkoi-elements-countdown-items[data-date]').forEach(function(ul){
+        )
+
+)

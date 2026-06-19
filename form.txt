@@ -1,0 +1,15 @@
+<form action='https://inv.wekita.id/wp-comments-post.php' method='post' id='commentform-27275'><p class="comment-form-author cui-field-1"><input id="author" name="author" type="text" aria-required="true" class="cui-input" placeholder="Nama" value="" required nofocus readonly="readonly" /><span class=" cui-error-info-name" style="color: #FFF;font-family: inherit;font-size: 0.7em;font-weight:bold;text-align: center;background:#C85951;border-radius: 3px;height: 20px;padding: 1px 10px 0 10px;line-height: 1.6;">Mohon maaf! Khusus untuk tamu undangan</span><div class="cui-wrap-textarea"><textarea id="cui-textarea-27275" class="waci_comment cui-textarea autosize-textarea" name="comment" aria-required="true" placeholder="Ucapan" rows="2"></textarea><span class="cui-required">*</span><span class="cui-error-info cui-error-info-text">2 characters minimum.</span></div>
+        <div class="nm-wrap-comments">     
+        <div class="row">        
+</div>
+</div>    <div class="cui-clearfix cui-wrap-select cui-field-wrap cui-select-attending">
+        
+    <select class="waci_comment cui-select" name="konfirmasi" id="konfirmasi">
+        <option value="" disabled selected>Konfirmasi Kehadiran</option>
+        <option value="Hadir">Datang</option>
+        <option value="Tidak hadir">Absen</option>
+            </select><span class="cui-required"></span><span class="cui-error-info cui-error-info-confirm"></span>
+    </div>
+        <div class='cui-wrap-submit cui-clearfix'><p class='form-submit'><span class="cui-hide">Do not change these fields following</span><input type="text" class="cui-hide" name="name" value="username"><input type="text" class="cui-hide" name="nombre" value=""><input type="text" class="cui-hide" name="form-cui" value=""><input type="button" class="cui-form-btn cui-cancel-btn" value="Cancel"><input name='submit' id='submit-27275' value='Kirim' type='submit' /><input type='hidden' name='commentpress' value='true' /><input type='hidden' name='comment_post_ID' value='27275' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></div></form>
