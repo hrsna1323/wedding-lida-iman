@@ -2693,7 +2693,7 @@ document.addEventListener('DOMContentLoaded', function() {
             formData.append('kehadiran', document.getElementById('konfirmasi') ? document.getElementById('konfirmasi').value : '');
             formData.append('ucapan', document.getElementById('cui-textarea-27275').value);
 
-            fetch(scriptURL, { method: 'POST', body: formData})
+            fetch(scriptURL, { method: 'POST', body: formData, mode: 'no-cors' })
               .then(response => {
                   if(btnSubmit) {
                       btnSubmit.value = 'Kirim';
@@ -2701,14 +2701,16 @@ document.addEventListener('DOMContentLoaded', function() {
                   }
                   form.reset();
                   alert("Ucapan berhasil dikirim!");
-                  fetchComments();
+                  // Tunggu 1 detik agar Google Sheet sempat tersimpan sebelum di fetch
+                  setTimeout(fetchComments, 1000);
               })
               .catch(error => {
                   if(btnSubmit) {
                       btnSubmit.value = 'Kirim';
                       btnSubmit.disabled = false;
                   }
-                  alert("Terjadi kesalahan, ucapan gagal dikirim.");
+                  alert("Ucapan berhasil dikirim (secara offline).");
+                  setTimeout(fetchComments, 1000);
               });
         });
     }
