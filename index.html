@@ -798,7 +798,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				</div>
 				<div class="elementor-element elementor-element-5a1bbd95 revealatas elementor-widget elementor-widget-weddingpress-kit2" data-id="5a1bbd95" data-element_type="widget" data-settings="{&quot;attendence&quot;:&quot;yes&quot;,&quot;show_date&quot;:&quot;yes&quot;}" data-widget_type="weddingpress-kit2.default">
 				<div class="elementor-widget-container">
-					<div class='cui-wrapper cui-facebook cui-border' style='overflow: hidden;'><div class='cui-wrap-link'><div class='header-cui'><a id='cui-link-27275' class='cui-link cui-icon-link cui-icon-link-true auto-load-true' href='?post_id=27275&amp;comments=0&amp;get=300&amp;order=DESC' title='0 Comments'><span>0</span> Comments</a></div></div><!--.cui-wrap-link--><div id='cui-wrap-commnent-27275' class='cui-wrap-comments' style='display:none;'><div id='cui-wrap-form-27275' class='cui-clearfix'><div class="cui-comment-attendence"><div id="invitation-count-27275" class="cui_comment_count_card_wrap"><div class="cui_comment_count_card_row_2"><div class="cui_comment_count_card cui_card-hadir"><span>0</span><span>Hadir</span></div><div class="cui_comment_count_card cui_card-tidak_hadir"><span>0</span><span>Tidak hadir</span></div></div></div></div><div class="cui-clearfix cui-wrap-form "><div id='cui-container-form-27275' class='cui-container-form cui-no-login'><div id='respond-27275' class='respond cui-clearfix'><form action='https://inv.wekita.id/wp-comments-post.php' method='post' id='commentform-27275'><p class="comment-form-author cui-field-1"><input id="author" name="author" type="text" aria-required="true" class="cui-input" placeholder="Nama" value="" required nofocus readonly="readonly" /><div class="cui-wrap-textarea"><textarea id="cui-textarea-27275" class="waci_comment cui-textarea autosize-textarea" name="comment" aria-required="true" placeholder="Ucapan" rows="2"></textarea><span class="cui-required">*</span><span class="cui-error-info cui-error-info-text">2 characters minimum.</span></div>
+					<div class='cui-wrapper cui-facebook cui-border' style='overflow: hidden;'><div class='cui-wrap-link'><div class='header-cui'><a id='cui-link-27275' class='cui-link cui-icon-link cui-icon-link-true auto-load-true' href='javascript:void(0);' title='0 Comments'><span>0</span> Comments</a></div></div><!--.cui-wrap-link--><div id='cui-wrap-commnent-27275' class='cui-wrap-comments'><div id='cui-wrap-form-27275' class='cui-clearfix'><div class="cui-comment-attendence"><div id="invitation-count-27275" class="cui_comment_count_card_wrap"><div class="cui_comment_count_card_row_2"><div class="cui_comment_count_card cui_card-hadir"><span>0</span><span>Hadir</span></div><div class="cui_comment_count_card cui_card-tidak_hadir"><span>0</span><span>Tidak hadir</span></div></div></div></div><div class="cui-clearfix cui-wrap-form "><div id='cui-container-form-27275' class='cui-container-form cui-no-login'><div id='respond-27275' class='respond cui-clearfix'><form action='#' method='post' id='custom-commentform'><p class="comment-form-author cui-field-1"><input id="author" name="author" type="text" aria-required="true" class="cui-input" placeholder="Nama" value="" required /><div class="cui-wrap-textarea"><textarea id="cui-textarea-27275" class="waci_comment cui-textarea autosize-textarea" name="comment" aria-required="true" placeholder="Ucapan" rows="2" required></textarea><span class="cui-required">*</span></div>
         <div class="nm-wrap-comments">     
         <div class="row">        
 </div>
@@ -2667,6 +2667,101 @@ if (d && d.type==='idb-ymd-override' && RE.test(d.ymd)) {
   })();
   </script>
   	
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxN8WRiIwTFAWiXqv6YefBUB15q_KZS-wex3EOJyeL6Ggmr0j8sU-W_iiXS8G1Mlupo/exec';
+    const form = document.getElementById('custom-commentform');
+    const commentContainer = document.getElementById('cui-container-comment-27275');
+    const btnSubmit = document.getElementById('submit-27275');
+    
+    // Remove readonly from input
+    const authorInput = document.getElementById('author');
+    if(authorInput) authorInput.removeAttribute('readonly');
+
+    fetchComments();
+
+    if(form) {
+        form.addEventListener('submit', e => {
+            e.preventDefault();
+            if(btnSubmit) {
+                btnSubmit.value = 'Mengirim...';
+                btnSubmit.disabled = true;
+            }
+
+            const formData = new FormData();
+            formData.append('nama', document.getElementById('author').value);
+            formData.append('kehadiran', document.getElementById('konfirmasi') ? document.getElementById('konfirmasi').value : '');
+            formData.append('ucapan', document.getElementById('cui-textarea-27275').value);
+
+            fetch(scriptURL, { method: 'POST', body: formData})
+              .then(response => {
+                  if(btnSubmit) {
+                      btnSubmit.value = 'Kirim';
+                      btnSubmit.disabled = false;
+                  }
+                  form.reset();
+                  alert("Ucapan berhasil dikirim!");
+                  fetchComments();
+              })
+              .catch(error => {
+                  if(btnSubmit) {
+                      btnSubmit.value = 'Kirim';
+                      btnSubmit.disabled = false;
+                  }
+                  alert("Terjadi kesalahan, ucapan gagal dikirim.");
+              });
+        });
+    }
+
+    function fetchComments() {
+        fetch(scriptURL)
+        .then(res => res.json())
+        .then(data => {
+            if(!data || data.length === 0) return;
+            let html = '';
+            data.reverse().forEach(row => {
+                const date = new Date(row.timestamp).toLocaleDateString('id-ID', {day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit'});
+                const statusBadge = row.kehadiran === 'Hadir' ? '<span style="background:#4CAF50;color:#fff;padding:2px 6px;border-radius:4px;font-size:10px;margin-left:5px;">Hadir</span>' : (row.kehadiran === 'Tidak hadir' ? '<span style="background:#f44336;color:#fff;padding:2px 6px;border-radius:4px;font-size:10px;margin-left:5px;">Tidak Hadir</span>' : '');
+                
+                html += `
+                <li class="cui-comment" style="padding:15px; border-bottom:1px solid #eee; margin-bottom:10px; list-style:none;">
+                    <div class="cui-comment-body">
+                        <div class="cui-comment-header">
+                            <strong style="color:var(--e-global-color-primary); font-size:16px;">${escapeHtml(row.nama)}</strong>
+                            ${statusBadge}
+                            <div style="font-size:11px;color:#888;margin-top:3px;">${date}</div>
+                        </div>
+                        <div class="cui-comment-content" style="margin-top:8px; font-size:14px; line-height:1.5;">
+                            <p>${escapeHtml(row.ucapan)}</p>
+                        </div>
+                    </div>
+                </li>
+                `;
+            });
+            if(commentContainer) {
+                commentContainer.innerHTML = html;
+            }
+            
+            const countHadir = data.filter(d => d.kehadiran === 'Hadir').length;
+            const countTidak = data.filter(d => d.kehadiran === 'Tidak hadir').length;
+            const countTotal = data.length;
+            
+            const txtHadir = document.querySelector('.cui_card-hadir span:first-child');
+            if(txtHadir) txtHadir.innerText = countHadir;
+            const txtTidak = document.querySelector('.cui_card-tidak_hadir span:first-child');
+            if(txtTidak) txtTidak.innerText = countTidak;
+            const linkCount = document.getElementById('cui-link-27275');
+            if(linkCount) linkCount.innerHTML = `<span>${countTotal}</span> Comments`;
+        })
+        .catch(err => console.error(err));
+    }
+
+    function escapeHtml(text) {
+        if(!text) return '';
+        return text.toString().replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
+    }
+});
+</script>
 <audio id="bgMusic" loop preload="auto">
     <source src="audio/musik.mp4" type="audio/mp4">
 </audio>
