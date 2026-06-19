@@ -2688,12 +2688,19 @@ document.addEventListener('DOMContentLoaded', function() {
                 btnSubmit.disabled = true;
             }
 
-            const formData = new FormData();
-            formData.append('nama', document.getElementById('author').value);
-            formData.append('kehadiran', document.getElementById('konfirmasi') ? document.getElementById('konfirmasi').value : '');
-            formData.append('ucapan', document.getElementById('cui-textarea-27275').value);
+            const params = new URLSearchParams();
+            params.append('nama', document.getElementById('author').value);
+            params.append('kehadiran', document.getElementById('konfirmasi') ? document.getElementById('konfirmasi').value : '');
+            params.append('ucapan', document.getElementById('cui-textarea-27275').value);
 
-            fetch(scriptURL, { method: 'POST', body: formData, mode: 'no-cors' })
+            fetch(scriptURL, { 
+                method: 'POST', 
+                body: params,
+                mode: 'no-cors',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded'
+                }
+            })
               .then(response => {
                   if(btnSubmit) {
                       btnSubmit.value = 'Kirim';
